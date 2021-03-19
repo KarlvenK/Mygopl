@@ -1,2 +1,2 @@
 # Mygopl
-reading 「The Go Programming Language]
+Read 「The Go Programming Language]
